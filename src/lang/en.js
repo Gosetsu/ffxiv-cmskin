@@ -184,6 +184,7 @@ export default {
   'role.smn': 'Smn',
   'role.arc': 'Arc',
   'role.brd': 'Brd',
+  'role.dnc': 'Dnc',
   'role.blm': 'Blm',
   'role.thm': 'Thm',
   'role.drg': 'Drg',
@@ -204,6 +205,7 @@ export default {
   'role.war': 'War',
   'role.gla': 'Gla',
   'role.pld': 'Pld',
+  'role.gnb': 'Gnb',
   'role.chocobo': 'Chocobo',
   'role.limitbreak': 'LimitBreak',
   // encounter
