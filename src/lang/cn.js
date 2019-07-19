@@ -185,6 +185,7 @@ export default {
   'role.smn': '召唤',
   'role.arc': '弓手',
   'role.brd': '诗人',
+  'role.dnc': '舞蹈',
   'role.blm': '黑魔',
   'role.thm': '咒术',
   'role.drg': '龙骑',
@@ -205,6 +206,7 @@ export default {
   'role.war': '战士',
   'role.gla': '剑术',
   'role.pld': '骑士',
+  'role.gnb': '保鏢',
   'role.chocobo': '陆行鸟',
   'role.limitbreak': '极限技',
   // encounter
