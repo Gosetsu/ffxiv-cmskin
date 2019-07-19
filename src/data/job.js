@@ -3,6 +3,7 @@ export default {
   smn: 'dps',
   arc: 'dps',
   brd: 'dps',
+  dnc: 'dps',
   blm: 'dps',
   thm: 'dps',
   drg: 'dps',
@@ -23,6 +24,7 @@ export default {
   war: 'tank',
   gla: 'tank',
   pld: 'tank',
+  gnb: 'tank',
   chocobo: false,
   limitbreak: false,
 };
